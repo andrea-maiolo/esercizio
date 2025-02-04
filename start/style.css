@@ -1,0 +1,59 @@
+body {
+  width: 100vw;
+}
+
+.container {
+  max-width: -webkit-fill-available;
+  background-color: #cd0a20;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.fa-solid {
+}
+
+.fa-bars {
+  margin-left: 1em;
+}
+
+.titleAndLogo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.fa-shoe-prints {
+  margin-top: 1em;
+}
+
+#mainTitle {
+  font-size: 2.5em;
+  color: #fff;
+  margin: 0;
+}
+
+#secondary {
+  font-size: 2em;
+  margin: 0;
+}
+
+.fa-phone {
+  margin-right: 1em;
+}
+
+.carousel > div > img {
+  width: 100vw;
+}
+
+#leranMore {
+  background-color: rgba(249, 249, 249, 0.694);
+}
